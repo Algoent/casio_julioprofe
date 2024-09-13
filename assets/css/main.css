@@ -86,7 +86,7 @@ h6 {
 
 @media (max-width: 991px) {
   body {
-    background: #e7e7e7 url("../img/LP-JulioProfe-final2-bg.jpg") center top fixed no-repeat;
+    background: #e7e7e7 url("../img/LP-Julio-y-Fision-Sep2024-amarillo.jpg") center top fixed no-repeat;
     background-size: cover;
   }
 }
@@ -346,11 +346,12 @@ section {
   top: 0;
   right: 0;
   left: 0;
-  height: 100px;
+  height: 200px;
+  margin-bottom: -100px;
 }
 
 .header .logo img {
-  max-height: 60px;
+  max-height: 70px;
   margin-right: 6px;
 }
 
