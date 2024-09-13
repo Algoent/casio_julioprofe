@@ -375,6 +375,12 @@ section {
 section {
   scroll-margin-top: 70px;
 }
+@media (max-width: 575px) {
+
+  .header .logo img {
+    max-height: 50px;
+  }
+}
 
 /*--------------------------------------------------------------
 # Desktop Navigation
