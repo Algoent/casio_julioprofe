@@ -25,7 +25,7 @@
 body {
   font-family: var(--font-primary);
   color: var(--color-black);
-  background: url("../img/LP-JulioProfe-final2-bg.jpg") right top fixed;
+  background: url("../img/LP-Julio-y-Fision-Sep2024-amarillo.jpg") right top fixed;
   background-size: cover;
 }
 
@@ -149,7 +149,7 @@ section {
   margin-top: 20px;
   padding-bottom: 0px;
   position: relative;
-  color: #005CA9;
+  color: #f1851e;
   text-align: center;
   font-family: Anton, sans-serif;
 }
@@ -785,20 +785,20 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #005CA9;
+  background: #f1851e;
   border: 0;
   padding: 10px 45px;
   color: #fff;
   transition: 0.4s;
   border-radius: 0px;
   font-size: 15px;
-  border: 2px solid #005CA9;
+  border: 2px solid #f1851e;
 }
 
 .contact .php-email-form button[type=submit]:hover {
   background: #fff;
   border: 2px solid #fff;
-  color: #005CA9;
+  color: #f1851e;
 }
 
 .contact .php-email-form-ajax {
@@ -1230,7 +1230,7 @@ section {
   background: none;  
 }
 .title-gracias h4{
-  color: #005CA9;
+  color: #f1851e;
   font-family: var(--font-primary);
   font-size: 50px; 
   text-align: center;
@@ -1252,9 +1252,9 @@ section {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #005CA9;
+  border: 2px solid #f1851e;
   color: #fff;
-  background: #005CA9;
+  background: #f1851e;
   text-transform: uppercase;
   font-family: var(--font-primary);
   text-decoration: none;
@@ -1267,7 +1267,7 @@ section {
 .title-gracias .cta-btn:hover {
   background: #fff;
   border: 2px solid #fff;
-  color: #005CA9;
+  color: #f1851e;
 }
 
 .title-gracias .social-links{
@@ -1284,12 +1284,12 @@ section {
   width: 50px;
   height: 50px;
   transition: 0.3s;
-  background: #005CA9;
+  background: #f1851e;
   border-radius: 50%;
 }
 
 .title-gracias .social-links a:hover {
-  color: #005CA9;
+  color: #f1851e;
   background: #fff;
   text-decoration: none;
 }
